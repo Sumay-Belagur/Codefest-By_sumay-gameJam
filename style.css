@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+#light{
+    display: none;
+    margin-top: 150px;
+    height: 400px;
+    margin-left: 100px;
+}
+#noLight{
+    
+    margin-top: 150px;
+    height: 400px;
+    margin-left: 100px;
+}
+#items{
+    height: 400px;
+    display: none;
+}
+#name{
+     color: white;
+     margin-left: 850px;
+     margin-bottom: 100px;
+     display: none;
+}
+#btn_off{
+    display: none;
+}
